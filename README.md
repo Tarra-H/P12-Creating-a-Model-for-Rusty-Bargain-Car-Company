@@ -1,4 +1,4 @@
-# Creating-a-Model-for-Rusty-Bargain-Car-Company
+# Developing a Car Market Valuation Model for Rusty Bargain
 
 Project Description:
 
